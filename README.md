@@ -1,8 +1,6 @@
 ## Hello!
-I'm Rob, a technical writer who is earning a Master's of Science in Professional & Technical Writing at Towson University. 
-During my studies, I've completed internships and coursework in technical writing, proposal/grant writing, data documentation, and web development. 
+I'm Rob, a technical writer who has earned a Master's of Science in Professional & Technical Writing at Towson University. 
+Over the course of my studies, I've completed internships and coursework in technical writing, proposal/grant writing, data documentation, and web development. 
 ## What am I up to? 
-- Employed as a Graduate Assistant for the Professional Writing Department at Towson University, and a grant writer with Grant Writing in Valued Environments (GIVE).
-- Studying API documentation through an independent study.
-- Graduating with my Master's on May 22nd, 2026!
-- Completing metadata and creating collection policies as part of a digital community archive group.
+- **Graduated May, 2026!** 
+- Writing grants, completing metadata, and creating collection policies as part of a digital community archive group.
